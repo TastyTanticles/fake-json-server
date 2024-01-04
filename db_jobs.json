@@ -1,0 +1,123 @@
+{
+  "jobs": [
+    {
+      "id": 21215645,
+      "title": "Google Internship Program",
+      "logo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png",
+      "companyName": "Google",
+      "position": "Software Engineering Internship",
+      "description": "This is an internship opportunity from Apple great.\n",
+      "isFavorite": false,
+      "isApplied": false
+    },
+    {
+      "id": 2,
+      "title": "Apple Internship Program",
+      "logo": "https://www.svgrepo.com/show/69341/apple-logo.svg",
+      "companyName": "Apple",
+      "position": "Software Engineering Internship",
+      "description": "This is an internship opportunity from Apple great.\n",
+      "isFavorite": false,
+      "isApplied": false
+    },
+    {
+      "id": 3,
+      "title": "Microsoft Internship Program",
+      "logo": "https://cdn.iconscout.com/icon/free/png-256/free-microsoft-26-722716.png",
+      "companyName": "Microsoft",
+      "position": "Software Engineering Intern",
+      "description": "This is an internship opportunity from Microsoft",
+      "isApplied": false
+    },
+    {
+      "id": 4,
+      "title": "NASA Internship Program",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1224px-NASA_logo.svg.png",
+      "companyName": "NASA",
+      "position": "Space Science Intern",
+      "description": "This is an internship opportunity from NASA",
+      "isApplied": false
+    },
+    {
+      "id": 5,
+      "title": "Adobe Internship Program",
+      "logo": "https://www.adobe.com/favicon.ico",
+      "companyName": "Adobe",
+      "position": "Software Development Intern",
+      "description": "This is an internship opportunity from Adobe"
+    },
+    {
+      "id": 6,
+      "title": "Facebook Internship Program",
+      "logo": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png",
+      "companyName": "Facebook",
+      "position": "Software Developer Intern",
+      "description": "This is an internship opportunity from Facebook"
+    },
+    {
+      "id": 7,
+      "title": "Tesla Internship Program",
+      "logo": "https://banner2.cleanpng.com/20190711/ksf/kisspng-tesla-inc-tesla-model-3-decal-logo-download-tesla-emblem-png-black-tesla-logo-png-p-5d2708d46d55b7.5696886815628392524478.jpg",
+      "companyName": "Tesla",
+      "position": "Engineering Intern",
+      "description": "This is an internship opportunity from Tesla"
+    },
+    {
+      "id": 8,
+      "title": "X Internship Program",
+      "logo": "https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png",
+      "companyName": "Twitter",
+      "position": "Software Engineering Intern",
+      "description": "This is an internship opportunity from Twitter"
+    },
+    {
+      "id": 9,
+      "title": "LinkedIn Internship Program",
+      "logo": "https://www.linkedin.com/favicon.ico",
+      "companyName": "LinkedIn",
+      "position": "Software Development Intern",
+      "description": "This is an internship opportunity from LinkedIn"
+    },
+    {
+      "id": 10,
+      "title": "Intel Internship Program",
+      "logo": "https://w7.pngwing.com/pngs/906/1023/png-transparent-intel-logo-fujitsu-business-technology-intel-blue-text-trademark-thumbnail.png",
+      "companyName": "Intel",
+      "position": "Software Engineering Intern",
+      "description": "This is an internship opportunity from Intel",
+      "isApplied": false
+    },
+    {
+      "id": 11,
+      "title": "Amazon Internship Program",
+      "logo": "https://www.amazon.com/favicon.ico",
+      "companyName": "Amazon",
+      "position": "Software Development Intern",
+      "description": "This is an internship opportunity from Amazon"
+    },
+    {
+      "id": 12,
+      "title": "IBM Internship Program",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png",
+      "companyName": "IBM",
+      "position": "Software Engineering Intern",
+      "description": "This is an internship opportunity from IBM"
+    },
+    {
+      "id": "94564",
+      "companyName": "sdfgfdsg",
+      "title": "ertret",
+      "position": "dfgfdsg",
+      "description": "sdfgdsfg",
+      "logo": "https://picsum.photos/200/300",
+      "isApplied": true
+    },
+    {
+      "id": "66456444",
+      "companyName": "ihuhgyugh",
+      "title": "uygyughvgh",
+      "position": "yttyyt",
+      "description": "fgvytytfty"
+    }
+  ]
+}
