@@ -7,8 +7,7 @@
       "companyName": "Google",
       "position": "Software Engineering Internship",
       "description": "This is an internship opportunity from Apple great.\n",
-      "isFavorite": false,
-      "isApplied": false
+
     },
     {
       "id": 2,
@@ -17,8 +16,7 @@
       "companyName": "Apple",
       "position": "Software Engineering Internship",
       "description": "This is an internship opportunity from Apple great.\n",
-      "isFavorite": false,
-      "isApplied": false
+
     },
     {
       "id": 3,
@@ -27,7 +25,7 @@
       "companyName": "Microsoft",
       "position": "Software Engineering Intern",
       "description": "This is an internship opportunity from Microsoft",
-      "isApplied": false
+
     },
     {
       "id": 4,
@@ -36,7 +34,7 @@
       "companyName": "NASA",
       "position": "Space Science Intern",
       "description": "This is an internship opportunity from NASA",
-      "isApplied": false
+
     },
     {
       "id": 5,
